@@ -83,3 +83,5 @@ cur.close()
 con.commit()
 
 print("fff")
+print("fff")
+print("fff")
