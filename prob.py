@@ -81,3 +81,5 @@ for root,dirs,files in os.walk(folder):
 
 cur.close()
 con.commit()
+
+print()
